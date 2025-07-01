@@ -1,0 +1,62 @@
+[
+  {
+    "Id": 1,
+    "title": "Follow up on TechCorp proposal",
+    "description": "Call John Anderson to discuss the enterprise license proposal and address any concerns",
+    "dueDate": "2024-03-15T14:00:00Z",
+    "priority": "High",
+    "status": "Pending",
+    "contactId": 1,
+    "assignedTo": "Sales Rep"
+  },
+  {
+    "Id": 2,
+    "title": "Prepare demo for InnovatePlus",
+    "description": "Create customized product demo focusing on marketing automation features",
+    "dueDate": "2024-03-18T10:00:00Z",
+    "priority": "High",
+    "status": "In Progress",
+    "contactId": 2,
+    "assignedTo": "Sales Engineer"
+  },
+  {
+    "Id": 3,
+    "title": "Send pricing information to Startup Ventures",
+    "description": "Email detailed pricing breakdown and ROI analysis for basic package",
+    "dueDate": "2024-03-20T16:00:00Z",
+    "priority": "Medium",
+    "status": "Pending",
+    "contactId": 3,
+    "assignedTo": "Account Manager"
+  },
+  {
+    "Id": 4,
+    "title": "Schedule technical review with GlobalTech",
+    "description": "Coordinate with IT team for technical requirements assessment",
+    "dueDate": "2024-03-22T11:00:00Z",
+    "priority": "Medium",
+    "status": "Pending",
+    "contactId": 4,
+    "assignedTo": "Technical Lead"
+  },
+  {
+    "Id": 5,
+    "title": "RetailMax contract review",
+    "description": "Review and finalize contract terms with legal team",
+    "dueDate": "2024-03-25T09:00:00Z",
+    "priority": "High",
+    "status": "Pending",
+    "contactId": 5,
+    "assignedTo": "Legal Team"
+  },
+  {
+    "Id": 6,
+    "title": "FinanceFirst onboarding kickoff",
+    "description": "Schedule and conduct onboarding kickoff meeting with implementation team",
+    "dueDate": "2024-03-12T13:00:00Z",
+    "priority": "High",
+    "status": "Completed",
+    "contactId": 6,
+    "assignedTo": "Customer Success"
+  }
+]

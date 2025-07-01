@@ -1,0 +1,68 @@
+[
+  {
+    "Id": 1,
+    "name": "John Anderson",
+    "email": "john.anderson@techcorp.com",
+    "phone": "(555) 123-4567",
+    "company": "TechCorp Solutions",
+    "position": "VP of Sales",
+    "createdAt": "2024-01-15T10:30:00Z",
+    "lastContactDate": "2024-03-10T14:20:00Z",
+    "tags": ["Enterprise", "High Value", "Decision Maker"]
+  },
+  {
+    "Id": 2,
+    "name": "Sarah Mitchell",
+    "email": "sarah.mitchell@innovateplus.com",
+    "phone": "(555) 234-5678",
+    "company": "InnovatePlus",
+    "position": "Marketing Director",
+    "createdAt": "2024-01-20T09:15:00Z",
+    "lastContactDate": "2024-03-08T11:45:00Z",
+    "tags": ["Mid-Market", "Marketing", "Warm Lead"]
+  },
+  {
+    "Id": 3,
+    "name": "Michael Chen",
+    "email": "m.chen@startupventures.com",
+    "phone": "(555) 345-6789",
+    "company": "Startup Ventures",
+    "position": "CEO",
+    "createdAt": "2024-02-01T16:00:00Z",
+    "lastContactDate": "2024-03-12T09:30:00Z",
+    "tags": ["Startup", "CEO", "Hot Lead"]
+  },
+  {
+    "Id": 4,
+    "name": "Emily Rodriguez",
+    "email": "emily.rodriguez@globaltech.com",
+    "phone": "(555) 456-7890",
+    "company": "GlobalTech Industries",
+    "position": "IT Director",
+    "createdAt": "2024-02-05T13:45:00Z",
+    "lastContactDate": "2024-03-05T15:20:00Z",
+    "tags": ["Enterprise", "Technical", "Evaluating"]
+  },
+  {
+    "Id": 5,
+    "name": "David Thompson",
+    "email": "david.thompson@retailmax.com",
+    "phone": "(555) 567-8901",
+    "company": "RetailMax",
+    "position": "Operations Manager",
+    "createdAt": "2024-02-10T08:30:00Z",
+    "lastContactDate": "2024-03-07T12:15:00Z",
+    "tags": ["Retail", "Operations", "Prospect"]
+  },
+  {
+    "Id": 6,
+    "name": "Lisa Zhang",
+    "email": "lisa.zhang@financefirst.com",
+    "phone": "(555) 678-9012",
+    "company": "FinanceFirst",
+    "position": "CFO",
+    "createdAt": "2024-02-15T11:20:00Z",
+    "lastContactDate": "2024-03-09T10:45:00Z",
+    "tags": ["Finance", "C-Level", "High Priority"]
+  }
+]
