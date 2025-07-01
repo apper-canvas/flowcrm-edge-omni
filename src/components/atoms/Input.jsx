@@ -1,4 +1,4 @@
-import AppIcon from '@/components/atoms/AppIcon';
+import AppIcon from '@/components/ApperIcon';
 
 const Input = ({ 
   label, 
